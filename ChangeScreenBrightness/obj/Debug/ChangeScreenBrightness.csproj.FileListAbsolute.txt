@@ -1,0 +1,7 @@
+D:\Anton\Projects\ChangeScreenBrightness\ChangeScreenBrightness\bin\Debug\ChangeScreenBrightness.exe.config
+D:\Anton\Projects\ChangeScreenBrightness\ChangeScreenBrightness\bin\Debug\ChangeScreenBrightness.exe
+D:\Anton\Projects\ChangeScreenBrightness\ChangeScreenBrightness\bin\Debug\ChangeScreenBrightness.pdb
+D:\Anton\Projects\ChangeScreenBrightness\ChangeScreenBrightness\bin\Debug\ScreenBrighnessClass.NET.dll
+D:\Anton\Projects\ChangeScreenBrightness\ChangeScreenBrightness\obj\Debug\ChangeScreenBrightness.csproj.CopyComplete
+D:\Anton\Projects\ChangeScreenBrightness\ChangeScreenBrightness\obj\Debug\ChangeScreenBrightness.exe
+D:\Anton\Projects\ChangeScreenBrightness\ChangeScreenBrightness\obj\Debug\ChangeScreenBrightness.pdb
